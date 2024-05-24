@@ -9,7 +9,7 @@
 - [Ngô Thiên Bâng]()
 
 ## Description
-- MeMe ChatApp BackEnd is a server application developed using NodeJS, Express, MongoDB, Socket.io, and other technologies. It provides a RESTful API for the client application to interact with the database and Socket.io for real-time chat features.
+- MeMe ChatApp BackEnd is a server application developed using NodeJS, Express, MongoDB, Socket.io, S3 AWS and other technologies. It provides a RESTful API for the client application to interact with the database and Socket.io for real-time chat features.
 
 ### 1. Requirement 
 
